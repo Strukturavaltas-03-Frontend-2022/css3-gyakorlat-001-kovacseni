@@ -41,7 +41,7 @@ body {
   .menu-item, .menu-open-button {
 	background-color: #ffc107;
 	color: white;
-	border-radius: 1em;
+	border-radius: 100%;
 	position: absolute;
 	text-align: center;
 	line-height: 80px;
